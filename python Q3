@@ -1,0 +1,14 @@
+3) All of the variable names below can be used. But which of these is the better variable name to use?
+A       a       Area      AREA        area      areaOfRectangle       AreaOfRectangle
+We can eliminate “A” and “a” because they are not really meaningful.
+It is better to start the variable with a lowercase letter, so eliminate “Area”, “AREA” and “AreaOfRectangle”.
+Compared to “area” “areaOfRectangle” is more explicit. “areaOfRectangle” seems a better variable.
+
+
+4) Which of these variables names are not allowed in Python? (More than one might be wrong.)
+apple      APPLE     Apple2        1Apple   account number          account_number       account.number    accountNumber       fred  Fred   return   return_value   5Return  GreatBigVariable   greatBigVariable   great_big_variable   great.big.variable  
+Variable must begin with a letter so “1Apple”, “5Return” are not allowed.
+“retune” is one of the reserved keywords of python.
+There shouldn’t be any space or dot between the different characters of the variables like “account number”, “account.number”,
+“great.big.value” “. 
+
