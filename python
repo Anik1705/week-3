@@ -1,0 +1,25 @@
+Week 3
+
+1)	Write a program that asks for two numbers (Python has all the basic mathematical functions in place, like +,- etc.),
+adds them up and displays the result. 
+
+n1 = int(input("insert the first number"))
+n2 = int(input("insert the second number"))
+print (int(n1+n2))
+
+2) Answer the questions by implementing the code and run it.
+a)	What will the output be from the following code?
+num = 4
+num*=2
+num1=num+2
+num1+=3
+print(num1)
+
+num = 4
+num*=2
+num1=num+2
+num1+=3
+print(num1)
+
+
+
